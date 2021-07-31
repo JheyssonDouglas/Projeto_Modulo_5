@@ -2,7 +2,7 @@
 
 O VamoAI É um projeto do IFood em parceria com a Resília Educação, com o objetivo de desenvolver profissinais em tecnologia em backend com foco em dados
 
-![](vamoai.jpeg)
+![](/Images/vamoai.jpeg)
 
 O projeto final contou com o objetivo de mostrarmos nossos conhecimentos em Storytelling e organizamos um material para apresentação conforme as instruções descritas:
 
@@ -22,11 +22,11 @@ Dessa forma, criamos uma história para falar sobre nós e mostramos um pouco de
 A nossa vizualizaçõ de dados foi com o Tableu, criamos um dashbord cada e unimos tudo em um só. Logo abixo você pode dá uma olhadinha no que fizemos, mas é só uma prévia ;) 
 
 
-![](Olavo.png)
+![](/Images/Olavo.png)
 
-![](Mateus.png)
+![](/Images/Mateus.png)
 
-![](Jheysson.png)
+![](/Images/jheysson.png)
 
 
 
