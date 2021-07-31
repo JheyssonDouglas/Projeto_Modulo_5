@@ -28,13 +28,17 @@ A nossa vizualizaçõ de dados foi com o Tableu, criamos um dashbord cada e unim
 
 ![](Jheysson.png)
 
-> # Nomes e o Github da Equipe 
 
 
 
- - # **[Olavo](https://github.com/Olavo5)**
- - # **[Jheysson](https://github.com/JheyssonDouglas)**
- - # **[Mateus](https://github.com/mateusvarelo)**
+#### **Github**
+ - ### **[Olavo](https://github.com/Olavo5)**
+ - ### **[Jheysson](https://github.com/JheyssonDouglas)**
+ - ### **[Mateus](https://github.com/mateusvarelo)**
 
- > # Dashboard
- Se curtiu e ficou curioso, dá uma olhada no nosso dashboard  [Link Aqui]()
+#### **Linkedin**
+ - ### **[Olavo](https://www.linkedin.com/in/olavo-pess%C3%B4a/)**
+ - ### **[Jheysson](https://www.linkedin.com/in/jheysson-douglas-868342100/)**
+ - ### **[Mateus](https://www.linkedin.com/in/mateusvarelo/)**
+ > #### Dashboard
+ Se curtiu e ficou curioso, dá uma olhada no nosso dashboard **[aqui](https://public.tableau.com/views/CASE-FimdeModulo-Resilia-EducaoPart-1/dash01?:language=pt-BR&:display_count=n&:origin=viz_share_link)**
